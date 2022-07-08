@@ -1,0 +1,7 @@
+name = "react-admin-panel"
+account_id = "4e599df4216133509abaac54b109a647"
+output_directory = "build"
+
+[vars]
+CI = "true"
+NODE_VERSION = "18"
