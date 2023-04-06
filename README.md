@@ -8,4 +8,3 @@ You can find it deployed here: [https://react-mui-pages.pages.dev/](https://reac
 ## Config
 `build command`: `npm run build` \
 `output dir`: `build`
-
